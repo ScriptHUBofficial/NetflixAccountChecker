@@ -1,0 +1,48 @@
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\obj\Debug\cracker_exe.csprojAssemblyReference.cache
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\obj\Debug\cracker_exe.Properties.Resources.resources
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.GenerateResource.cache
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.CoreCompileInputs.cache
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\bin\Debug\cracker_exe.exe.config
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\bin\Debug\cracker_exe.exe
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\bin\Debug\cracker_exe.pdb
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\obj\Debug\cracker_exe.exe
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\obj\Debug\cracker_exe.pdb
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\bin\Debug\Colorful.Console.dll
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\bin\Debug\Leaf.xNet.dll
+C:\Users\TS0054C\source\repos\cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\bin\Debug\cracker_exe.exe.config
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\bin\Debug\cracker_exe.exe
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\bin\Debug\cracker_exe.pdb
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\bin\Debug\Colorful.Console.dll
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\bin\Debug\Leaf.xNet.dll
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.exe
+C:\Users\Administrator\Desktop\C_Source_cracker_exe\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.pdb
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\bin\Debug\Colorful.Console.dll
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\bin\Debug\Leaf.xNet.dll
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.CopyComplete
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\bin\Debug\crackturkey.exe.config
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\bin\Debug\crackturkey.exe
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\bin\Debug\crackturkey.pdb
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\obj\Debug\crackturkey.Properties.Resources.resources
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\obj\Debug\crackturkey.exe
+C:\Users\pc\Desktop\C# Source cracker_exe\cracker_exe\obj\Debug\crackturkey.pdb
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\bin\Debug\crackturkey.exe.config
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\bin\Debug\crackturkey.exe
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\bin\Debug\crackturkey.pdb
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\bin\Debug\Colorful.Console.dll
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\bin\Debug\Leaf.xNet.dll
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\obj\Debug\crackturkey.Properties.Resources.resources
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\obj\Debug\cracker_exe.csproj.CopyComplete
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\obj\Debug\crackturkey.exe
+C:\Users\pc\Desktop\Crack\C# Source cracker_exe\cracker_exe\obj\Debug\crackturkey.pdb
